@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<RootElement>
+    <ftp>
+        <ftpaddress>FTP_Server_address:21</ftpaddress>
+		<username>FTP_User</username>
+        <password>FTP_User_Password</password>
+		<FolderA>C:\test1</FolderA>
+		<FolderB>C:\test2</FolderB>
+		<waittime>60</waittime>
+		<ftptime>60</ftptime>
+    </ftp>
+</RootElement>
